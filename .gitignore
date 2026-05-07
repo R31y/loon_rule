@@ -1,0 +1,10 @@
+# Local/private Loon files
+*.bak*
+*.private.*
+local.*
+.env
+
+# Do not commit local certificate/subscription exports
+*.p12
+*.mobileconfig
+.ace-tool/
